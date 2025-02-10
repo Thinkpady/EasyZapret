@@ -1,0 +1,2 @@
+# EasyZapret
+Переработанный Zapret.
